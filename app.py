@@ -101,4 +101,4 @@ if st.button("🔍 Predict Insurance Cost", use_container_width=True):
     )
 
 st.write("")
-st.caption("⚡ Built with Streamlit & Machine Learning")
+
