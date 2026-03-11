@@ -61,7 +61,7 @@ height:3em;
 """, unsafe_allow_html=True)
 
 # ---------- Header ----------
-st.markdown('<div class="title">💰 Insurance Cost Prediction</div>', unsafe_allow_html=True)
+st.markdown('💰 Insurance Cost Prediction', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Machine Learning based premium estimator</div>', unsafe_allow_html=True)
 
 # ---------- Input Section ----------
